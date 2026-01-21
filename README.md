@@ -36,7 +36,7 @@ ai-faq-chatbot/
 
 3. Run the backend server:
    ```
- python backend/app.py
+   python backend/app.py
    ```
 
 4. Open the frontend in your browser:
@@ -73,3 +73,4 @@ Feel free to fork this project and submit pull requests with improvements!
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
