@@ -1,0 +1,24 @@
+{
+  "faqs": [
+    {
+      "question": "What is this chatbot?",
+      "answer": "This is an AI-powered FAQ chatbot designed to answer common questions about our services."
+    },
+    {
+      "question": "How do I use the chatbot?",
+      "answer": "Simply type your question in the chat box and press enter. The chatbot will try to match your query to our FAQ database."
+    },
+    {
+      "question": "What if my question isn't in the FAQ?",
+      "answer": "If your question isn't covered in our FAQ, please contact our support team for further assistance."
+    },
+    {
+      "question": "Is the chatbot available 24/7?",
+      "answer": "Yes, the chatbot is available around the clock to help with your queries."
+    },
+    {
+      "question": "How accurate is the chatbot?",
+      "answer": "The chatbot uses simple keyword matching to find relevant answers. It's not perfect, but it covers most common questions."
+    }
+  ]
+}
