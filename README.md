@@ -66,11 +66,4 @@ ai-faq-chatbot/
 - Modify `backend/chatbot.py` to improve the matching algorithm.
 - Update `frontend/style.css` to change the appearance of the chat interface.
 
-## Contributing
-
-Feel free to fork this project and submit pull requests with improvements!
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
 
